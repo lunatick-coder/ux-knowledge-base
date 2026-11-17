@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700" style="background:#f8fafc; font-family:'Segoe UI', system-ui, sans-serif;">
+  <!-- Browser Chrome -->
+  <rect x="0" y="0" width="1000" height="36" fill="#1e293b"/>
+  <circle cx="20" cy="18" r="6" fill="#ef4444"/>
+  <circle cx="38" cy="18" r="6" fill="#f59e0b"/>
+  <circle cx="56" cy="18" r="6" fill="#10b981"/>
+  <rect x="120" y="8" width="760" height="20" rx="4" fill="#334155"/>
+  <text x="135" y="22" font-size="11" fill="#94a3b8">https://zdrowieplus.pl/produkt/omron-m3-comfort</text>
+
+  <!-- Header -->
+  <rect x="0" y="36" width="1000" height="65" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="40" y="48" width="34" height="34" rx="6" fill="#0284c7"/>
+  <text x="57" y="71" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">+</text>
+  <text x="82" y="68" font-size="18" fill="#0f172a" font-weight="bold">Zdrowie<tspan fill="#0284c7">Plus</tspan></text>
+  <text x="910" y="72" font-size="14" fill="#0f172a" font-weight="bold">🛒 0</text>
+
+  <!-- Breadcrumbs -->
+  <text x="40" y="125" font-size="12" fill="#64748b">Strona główna › Sprzęt medyczny › Ciśnieniomierze › <tspan fill="#0f172a" font-weight="600">Omron M3 Comfort</tspan></text>
+
+  <!-- Main Product Grid -->
+  <!-- Left: Gallery -->
+  <rect x="40" y="145" width="420" height="420" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="60" y="165" width="380" height="300" rx="6" fill="#f1f5f9"/>
+  <text x="250" y="325" font-size="16" fill="#94a3b8" text-anchor="middle">[Główne Zdjęcie: Omron M3 + Mankiet + Zasilacz]</text>
+  
+  <!-- Thumbnails -->
+  <rect x="60" y="485" width="70" height="60" rx="4" fill="#ffffff" stroke="#0284c7" stroke-width="2"/>
+  <text x="95" y="520" font-size="10" fill="#0284c7" text-anchor="middle">Foto 1</text>
+  <rect x="145" y="485" width="70" height="60" rx="4" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="180" y="520" font-size="10" fill="#64748b" text-anchor="middle">Foto 2</text>
+  <rect x="230" y="485" width="70" height="60" rx="4" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="265" y="520" font-size="10" fill="#64748b" text-anchor="middle">Zasilacz</text>
+
+  <!-- Right: Details & Purchase Box -->
+  <rect x="480" y="145" width="480" height="490" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+  
+  <text x="510" y="180" font-size="22" fill="#0f172a" font-weight="bold">Omron M3 Comfort</text>
+  <text x="510" y="202" font-size="14" fill="#64748b">Automatyczny ciśnieniomierz naramienny z mankietem Intelli Wrap</text>
+  <text x="510" y="224" font-size="13" fill="#f59e0b">★★★★★ <tspan fill="#64748b">(142 opinie z potwierdzeniem zakupu)</tspan></text>
+
+  <!-- Price Box -->
+  <rect x="510" y="245" width="420" height="85" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="530" y="280" font-size="28" fill="#0f172a" font-weight="bold">249,00 zł</text>
+  <text x="660" y="280" font-size="14" fill="#94a3b8" text-decoration="line-through">289,00 zł</text>
+  <text x="530" y="310" font-size="12" fill="#0284c7" font-weight="600">Najniższa cena z 30 dni przed obniżką: 249,00 zł</text>
+
+  <!-- Trust badges -->
+  <text x="510" y="355" font-size="13" fill="#16a34a" font-weight="600">✓ W magazynie - wysyłka dzisiaj</text>
+  <text x="510" y="375" font-size="13" fill="#475569">✓ Darmowa dostawa do Paczkomatu i kurierem</text>
+  <text x="510" y="395" font-size="13" fill="#475569">✓ Oficjalna polska dystrybucja • 5 lat gwarancji</text>
+
+  <!-- Key Specs Box -->
+  <rect x="510" y="415" width="420" height="85" rx="6" fill="#f1f5f9"/>
+  <text x="525" y="438" font-size="12" fill="#0f172a" font-weight="bold">Co zawiera zestaw:</text>
+  <text x="525" y="458" font-size="12" fill="#334155">• Ciśnieniomierz Omron M3 Comfort z pamięcią 2x60</text>
+  <text x="525" y="475" font-size="12" fill="#334155">• Mankiet Intelli Wrap (22-42 cm), zasilacz sieciowy, komplet baterii, etui</text>
+
+  <!-- Quantity Selector and Big CTA -->
+  <rect x="510" y="525" width="100" height="48" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="530" y="555" font-size="18" fill="#0f172a" font-weight="bold">-</text>
+  <text x="560" y="555" font-size="16" fill="#0f172a" font-weight="bold">1</text>
+  <text x="590" y="555" font-size="18" fill="#0f172a" font-weight="bold">+</text>
+
+  <rect x="625" y="525" width="305" height="48" rx="8" fill="#16a34a"/>
+  <text x="777" y="555" font-size="16" fill="#ffffff" font-weight="bold" text-anchor="middle">Dodaj do koszyka 🛒</text>
+
+  <!-- === AUDIT ANNOTATIONS === -->
+  <!-- Annotation 5: Missing Alt tag on thumbnails -->
+  <rect x="50" y="475" width="260" height="80" rx="4" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-dasharray="5"/>
+  <rect x="50" y="565" width="135" height="24" rx="4" fill="#ef4444"/>
+  <text x="117" y="581" font-size="11" fill="#ffffff" font-weight="bold" text-anchor="middle">#ERR-05 [CRITICAL]</text>
+  
+  <!-- Annotation 6: Small font in Specs (12px) -->
+  <rect x="500" y="405" width="440" height="100" rx="4" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="5"/>
+  <rect x="790" y="390" width="125" height="24" rx="4" fill="#f59e0b"/>
+  <text x="852" y="406" font-size="11" fill="#ffffff" font-weight="bold" text-anchor="middle">#ERR-06 [MAJOR]</text>
+</svg>

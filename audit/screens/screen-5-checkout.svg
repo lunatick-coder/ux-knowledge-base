@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 740" width="1000" height="740" style="background:#f8fafc; font-family:'Segoe UI', system-ui, sans-serif;">
+  <!-- Browser Chrome -->
+  <rect x="0" y="0" width="1000" height="36" fill="#1e293b"/>
+  <circle cx="20" cy="18" r="6" fill="#ef4444"/>
+  <circle cx="38" cy="18" r="6" fill="#f59e0b"/>
+  <circle cx="56" cy="18" r="6" fill="#10b981"/>
+  <rect x="120" y="8" width="760" height="20" rx="4" fill="#334155"/>
+  <text x="135" y="22" font-size="11" fill="#94a3b8">https://zdrowieplus.pl/zamowienie/kasa</text>
+
+  <!-- Header minimal (Distraction-free checkout) -->
+  <rect x="0" y="36" width="1000" height="60" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="50" y="72" font-size="18" fill="#0f172a" font-weight="bold">Zdrowie<tspan fill="#0284c7">Plus</tspan> | Kasa</text>
+  <text x="910" y="72" font-size="13" fill="#16a34a" font-weight="600">🔒 Bezpieczne połączenie</text>
+
+  <!-- Progress Steps -->
+  <rect x="0" y="96" width="1000" height="40" fill="#f1f5f9"/>
+  <text x="250" y="121" font-size="13" fill="#16a34a" font-weight="bold">✓ 1. Koszyk</text>
+  <text x="450" y="121" font-size="13" fill="#0284c7" font-weight="bold">● 2. Dostawa i dane</text>
+  <text x="680" y="121" font-size="13" fill="#94a3b8">○ 3. Płatność i potwierdzenie</text>
+
+  <!-- Main Checkout Grid -->
+  <!-- Left: Single Column Form -->
+  <rect x="40" y="150" width="580" height="560" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="70" y="185" font-size="18" fill="#0f172a" font-weight="bold">Dane do wysyłki (Zakupy bez rejestracji)</text>
+
+  <!-- Field 1: Imię i Nazwisko -->
+  <text x="70" y="220" font-size="13" fill="#0f172a" font-weight="600">Imię i nazwisko *</text>
+  <rect x="70" y="230" width="520" height="40" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="85" y="255" font-size="14" fill="#0f172a">Teresa Wiśniewska</text>
+
+  <!-- Field 2: E-mail -->
+  <text x="70" y="295" font-size="13" fill="#0f172a" font-weight="600">Adres e-mail (do powiadomień) *</text>
+  <rect x="70" y="305" width="520" height="40" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="85" y="330" font-size="14" fill="#0f172a">teresa.wisniewska@example.com</text>
+
+  <!-- Field 3: Telefon (WITH ERROR DISPLAY) -->
+  <text x="70" y="370" font-size="13" fill="#ef4444" font-weight="600">Numer telefonu komórkowego *</text>
+  <rect x="70" y="380" width="520" height="40" rx="6" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+  <text x="85" y="405" font-size="14" fill="#0f172a">60112345</text>
+  <!-- Error Text -->
+  <text x="70" y="435" font-size="12" fill="#ef4444">⚠️ Nieprawidłowy numer telefonu. Wymagane jest dokładnie 9 cyfr (np. 601 123 456).</text>
+
+  <!-- Delivery Method: Paczkomat -->
+  <text x="70" y="475" font-size="15" fill="#0f172a" font-weight="bold">Sposób dostawy:</text>
+  <rect x="70" y="490" width="520" height="50" rx="6" fill="#e0f2fe" stroke="#0284c7"/>
+  <text x="90" y="520" font-size="14" fill="#0284c7" font-weight="bold">🔘 Paczkomat InPost (RAD04M - ul. Struga 14) - 0,00 zł</text>
+
+  <!-- Consents Checkbox area -->
+  <rect x="70" y="560" width="16" height="16" rx="3" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="95" y="573" font-size="12" fill="#475569">Oświadczam, że zapoznałem się z Regulaminem apteki i akceptuję jego warunki *</text>
+
+  <!-- Big Final CTA -->
+  <rect x="70" y="610" width="520" height="52" rx="8" fill="#16a34a"/>
+  <text x="330" y="642" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">Kupuję i płacę z BLIK (249,00 zł) ›</text>
+
+  <!-- Right: Sticky Order Summary -->
+  <rect x="640" y="150" width="320" height="300" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="665" y="185" font-size="16" fill="#0f172a" font-weight="bold">Twoje Zamówienie</text>
+  
+  <text x="665" y="215" font-size="13" fill="#475569">Omron M3 Comfort (1 szt.)</text>
+  <text x="935" y="215" font-size="13" fill="#0f172a" font-weight="bold" text-anchor="end">249,00 zł</text>
+
+  <text x="665" y="245" font-size="13" fill="#475569">Dostawa Paczkomat:</text>
+  <text x="935" y="245" font-size="13" fill="#16a34a" font-weight="bold" text-anchor="end">0,00 zł</text>
+
+  <line x1="665" y1="270" x2="935" y2="270" stroke="#e2e8f0"/>
+  <text x="665" y="300" font-size="16" fill="#0f172a" font-weight="bold">Łącznie:</text>
+  <text x="935" y="300" font-size="22" fill="#0284c7" font-weight="bold" text-anchor="end">249,00 zł</text>
+
+  <rect x="665" y="330" width="270" height="80" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="680" y="355" font-size="12" fill="#16a34a" font-weight="bold">✓ Płatność BLIK bez prowizji</text>
+  <text x="680" y="375" font-size="11" fill="#64748b">• 14 dni na bezpłatny zwrot</text>
+  <text x="680" y="393" font-size="11" fill="#64748b">• Apteka zarejestrowana w WIF</text>
+
+  <!-- === AUDIT ANNOTATIONS === -->
+  <!-- Annotation 9: Redundant entry & missing autocomplete attribute -->
+  <rect x="60" y="220" width="540" height="150" rx="4" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="5"/>
+  <rect x="420" y="200" width="135" height="24" rx="4" fill="#f59e0b"/>
+  <text x="487" y="216" font-size="11" fill="#ffffff" font-weight="bold" text-anchor="middle">#ERR-09 [MAJOR]</text>
+
+  <!-- Annotation 10: Checkbox target size 16px (WCAG 2.5.8 violation) -->
+  <rect x="60" y="550" width="530" height="35" rx="4" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-dasharray="5"/>
+  <rect x="440" y="530" width="145" height="24" rx="4" fill="#ef4444"/>
+  <text x="512" y="546" font-size="11" fill="#ffffff" font-weight="bold" text-anchor="middle">#ERR-10 [BLOCKER]</text>
+</svg>

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="1000" height="650" style="background:#f8fafc; font-family:'Segoe UI', system-ui, sans-serif;">
+  <!-- Browser Chrome / Header Bar -->
+  <rect x="0" y="0" width="1000" height="36" fill="#1e293b"/>
+  <circle cx="20" cy="18" r="6" fill="#ef4444"/>
+  <circle cx="38" cy="18" r="6" fill="#f59e0b"/>
+  <circle cx="56" cy="18" r="6" fill="#10b981"/>
+  <rect x="120" y="8" width="760" height="20" rx="4" fill="#334155"/>
+  <text x="135" y="22" font-size="11" fill="#94a3b8">https://zdrowieplus.pl</text>
+
+  <!-- Top Announcement Bar -->
+  <rect x="0" y="36" width="1000" height="30" fill="#0284c7"/>
+  <text x="500" y="55" font-size="12" fill="#ffffff" font-weight="600" text-anchor="middle">Darmowa dostawa do aptek i Paczkomatów od 149 zł | Infolinia farmaceutyczna: 800 123 456</text>
+
+  <!-- Main Navigation Header -->
+  <rect x="0" y="66" width="1000" height="70" fill="#ffffff" stroke="#e2e8f0"/>
+  <!-- Logo -->
+  <rect x="40" y="82" width="38" height="38" rx="8" fill="#0284c7"/>
+  <text x="59" y="108" font-size="24" fill="#ffffff" font-weight="bold" text-anchor="middle">+</text>
+  <text x="90" y="102" font-size="20" fill="#0f172a" font-weight="bold">Zdrowie<tspan fill="#0284c7">Plus</tspan></text>
+  <text x="90" y="117" font-size="11" fill="#64748b">Apteka &amp; Sklep Medyczny</text>
+
+  <!-- Search Box Area -->
+  <rect x="300" y="81" width="420" height="40" rx="6" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="316" y="106" font-size="14" fill="#94a3b8">Szukaj leku, ciśnieniomierza, witaminy...</text>
+  <rect x="640" y="81" width="80" height="40" rx="6" fill="#0284c7"/>
+  <text x="680" y="106" font-size="14" fill="#ffffff" font-weight="600" text-anchor="middle">Szukaj</text>
+
+  <!-- User Utility Icons -->
+  <text x="760" y="107" font-size="13" fill="#334155">Infolinia</text>
+  <text x="830" y="107" font-size="13" fill="#334155">Moje Konto</text>
+  <rect x="910" y="83" width="55" height="36" rx="6" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="937" y="106" font-size="14" fill="#0f172a" font-weight="bold" text-anchor="middle">🛒 0</text>
+
+  <!-- Category Nav Bar -->
+  <rect x="0" y="136" width="1000" height="40" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="60" y="161" font-size="13" fill="#0284c7" font-weight="bold">Kategorie produktów ▾</text>
+  <text x="210" y="161" font-size="13" fill="#334155">Leki bez recepty</text>
+  <text x="330" y="161" font-size="13" fill="#334155">Sprzęt medyczny</text>
+  <text x="450" y="161" font-size="13" fill="#334155">Witaminy &amp; Minerały</text>
+  <text x="590" y="161" font-size="13" fill="#334155">Zdrowie seniora</text>
+  <text x="710" y="161" font-size="13" fill="#ef4444" font-weight="600">Promocje %</text>
+  <text x="820" y="161" font-size="13" fill="#334155">E-Recepta</text>
+
+  <!-- Hero Section -->
+  <rect x="40" y="196" width="920" height="230" rx="12" fill="#e0f2fe" stroke="#bae6fd"/>
+  <text x="80" y="246" font-size="28" fill="#0369a1" font-weight="bold">Zadbaj o serce swoje i bliskich</text>
+  <text x="80" y="278" font-size="16" fill="#334155">Certyfikowane ciśnieniomierze naramienne z 5-letnią gwarancją producenta.</text>
+  <text x="80" y="302" font-size="14" fill="#64748b">Tylko w tym tygodniu zasilacz sieciowy gratis do modeli z serii Pro.</text>
+  <!-- Hero CTA -->
+  <rect x="80" y="330" width="220" height="46" rx="8" fill="#0284c7"/>
+  <text x="190" y="358" font-size="15" fill="#ffffff" font-weight="bold" text-anchor="middle">Sprawdź ciśnieniomierze ›</text>
+
+  <!-- Promo graphic placeholder in Hero -->
+  <rect x="680" y="216" width="240" height="190" rx="8" fill="#bae6fd"/>
+  <text x="800" y="315" font-size="14" fill="#0284c7" text-anchor="middle">[Grafika Ciśnieniomierza]</text>
+
+  <!-- Popular Categories Section -->
+  <text x="40" y="465" font-size="20" fill="#0f172a" font-weight="bold">Najczęściej wybierane kategorie</text>
+  
+  <!-- Category Cards -->
+  <rect x="40" y="485" width="210" height="110" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="145" y="535" font-size="14" fill="#0f172a" font-weight="600" text-anchor="middle">Ciśnieniomierze</text>
+  <text x="145" y="555" font-size="12" fill="#64748b" text-anchor="middle">38 produktów</text>
+
+  <rect x="275" y="485" width="210" height="110" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="380" y="535" font-size="14" fill="#0f172a" font-weight="600" text-anchor="middle">Witaminy dla seniora</text>
+  <text x="380" y="555" font-size="12" fill="#64748b" text-anchor="middle">64 produkty</text>
+
+  <rect x="510" y="485" width="210" height="110" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="615" y="535" font-size="14" fill="#0f172a" font-weight="600" text-anchor="middle">Inhalatory &amp; Nebulizatory</text>
+  <text x="615" y="555" font-size="12" fill="#64748b" text-anchor="middle">22 produkty</text>
+
+  <rect x="745" y="485" width="210" height="110" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="850" y="535" font-size="14" fill="#0f172a" font-weight="600" text-anchor="middle">Glukometry &amp; Paski</text>
+  <text x="850" y="555" font-size="12" fill="#64748b" text-anchor="middle">19 produktów</text>
+
+  <!-- === AUDIT ANNOTATIONS === -->
+  <!-- Annotation 1: Search Box Placeholder & Contrast -->
+  <rect x="295" y="75" width="430" height="52" rx="4" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-dasharray="5"/>
+  <rect x="670" y="50" width="135" height="24" rx="4" fill="#ef4444"/>
+  <text x="737" y="66" font-size="11" fill="#ffffff" font-weight="bold" text-anchor="middle">#ERR-01 [CRITICAL]</text>
+  <line x1="680" y1="74" x2="650" y2="85" stroke="#ef4444" stroke-width="2"/>
+
+  <!-- Annotation 2: Missing Focus Visible on Nav Links -->
+  <rect x="205" y="145" width="450" height="28" rx="4" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="5"/>
+  <rect x="420" y="175" width="125" height="24" rx="4" fill="#f59e0b"/>
+  <text x="482" y="191" font-size="11" fill="#ffffff" font-weight="bold" text-anchor="middle">#ERR-02 [MAJOR]</text>
+</svg>
